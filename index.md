@@ -9,6 +9,6 @@ Dans le cadre de mes études, je suis en train de créer un trivial poursuite ax
 
 1. un plateau de jeu
 2. 5 jeux de cartes (1/thème)
-3. 6 jetons en forme d'orinateur
+3. 6 jetons en forme d'ordinateur
 4. 6 X 5 "puces informatique" ( si il n'est pas dans votre capacité, un simple fromage comme dans le trivial pursuite orginal)
 5.  
