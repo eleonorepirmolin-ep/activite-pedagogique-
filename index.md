@@ -8,7 +8,7 @@ Ce jeu est diviser en 5 grande quatégorie:  1) Culture informatique, ordinateur
 
 ## Contenu 
 
-1. un plateau de jeu-[Voir trivial_pursuite__.pdf](trivial_pursuite__.pdf)
+1. un plateau de jeu - ([trivial_pursuite__.pdf](trivial_pursuite__.pdf))
 2. 5 jeux de cartes (1/thème)
 3. 6 jetons en forme d'ordinateur
 4. 6 X 5 "puces informatique" ( si il n'est pas dans votre capacité, un simple fromage comme dans le trivial pursuite orginal)
