@@ -18,4 +18,4 @@ Ce jeu est diviser en 5 grande quatégorie:  1) Culture informatique, ordinateur
 
 Pour le premier thèmes la culture informatique, ordinateur et connaissance de l'environnement numérique sont requise. 
 
-trivial_pursuite_.pdf 
+[Voir trivial_pursuite_.pdf](trivial_pursuite_.pdf)
