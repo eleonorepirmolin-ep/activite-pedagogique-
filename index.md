@@ -17,5 +17,5 @@ Ce jeu est diviser en 5 grande quatégorie:  1) Culture informatique, ordinateur
 ### Thème 1 
 
 Pour le premier thèmes la culture informatique, ordinateur et connaissance de l'environnement numérique sont requise. 
-
-
+vous trouverai ci joint jeu de carte ainsi que sont correctif, encore une fois les questons reste modifiable en cas de problème. 
+[Voir trivial_pursuite__.pdf](question triviale pursuite thème 1 .drawio.pdf)
