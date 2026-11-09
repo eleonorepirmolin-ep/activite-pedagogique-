@@ -20,7 +20,7 @@ Pour le premier thèmes la culture informatique, ordinateur et connaissance de l
 vous trouverai ci joint jeu de carte ainsi que sont correctif.
 (Encore une fois les questons reste modifiable en cas de problème.) 
  
- [questions thème 1](question_triviale_pursuite_thème1.drawio.pdf)
+ [questions thème 1](activité_thème1/question_triviale_pursuite_thème1.drawio.pdf)
 
 [correctif de question thèmes 1](activité_thème1/question_triviale_pursuite_thème1(correctif).drawio.pdf)
 
