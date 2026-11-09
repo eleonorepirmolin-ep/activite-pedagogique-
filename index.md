@@ -22,6 +22,6 @@ vous trouverai ci joint jeu de carte ainsi que sont correctif.
  
  [questions thème 1](question_triviale_pursuite_thème1.drawio.pdf)
 
-[correctif de question thèmes 1](question_triviale_pursuite_thème1(correctif).drawio.pdf)
+[correctif de question thèmes 1](activité_thème1/question_triviale_pursuite_thème1(correctif).drawio.pdf)
 
 
