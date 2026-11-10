@@ -24,7 +24,7 @@ Vous trouverez ci-joint le jeu de carte à découper ainsi que sont correctif.
 [correctif de question thèmes 1](activité_thème1/question_triviale_pursuite_thème1(correctif).drawio.pdf) en format PDF. 
 
  
-[questions thème 1](activité_thème1/question_triviale_pursuite_thème1_) sous forme modifiable, à télécharger.  
+[questions thème 2](activité_thème2/Question_trivial_pursuite_thème2(avec_correctif).drawio) sous forme modifiable, à télécharger.  
 
 
 ### Thème 2 
