@@ -19,8 +19,8 @@ Ce jeu est diviser en 5 grande quatégorie:  1) Culture informatique, ordinateur
 Pour le premier thèmes la culture informatique, ordinateur et connaissance de l'environnement numérique sont requise. 
 Vous trouverez ci-joint le jeu de carte à découper ainsi que sont correctif.
  
- [questions thème 1](activité_thème1/question_triviale_pursuite_thème1.drawio.pdf)
-[questions thème 1](activité_thème1/question_triviale_pursuite_thème1.drawio.pdf)
+ [questions thème 1](activité_thème1/question_triviale_pursuite_thème1.drawio.pdf) en format PDF.
+[questions thème 1](activité_thème1/question_triviale_pursuite_thème1_) sous forme modifiable. 
 [correctif de question thèmes 1](activité_thème1/question_triviale_pursuite_thème1(correctif).drawio.pdf)
 
 ### Thème 2 
