@@ -33,3 +33,4 @@ Le deuxième thème aborde comme sujet Internet, la navigation web et qualité d
 
 [questions thème 2](activité_thème1/question_triviale_pursuite_thème1_) sous forme modifiable, à télécharger.
 
+[questions thème 2 PDF]()
