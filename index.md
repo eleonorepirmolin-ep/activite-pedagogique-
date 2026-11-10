@@ -30,3 +30,6 @@ Vous trouverez ci-joint le jeu de carte à découper ainsi que sont correctif.
 ### Thème 2 
 
 Le deuxième thème aborde comme sujet Internet, la navigation web et qualité de l'information.  
+
+[questions thème 1](activité_thème1/question_triviale_pursuite_thème1_) sous forme modifiable, à télécharger.
+
