@@ -20,7 +20,9 @@ Pour le premier thèmes la culture informatique, ordinateur et connaissance de l
 Vous trouverez ci-joint le jeu de carte à découper ainsi que sont correctif.
  
  [questions thème 1](activité_thème1/question_triviale_pursuite_thème1.drawio.pdf) en format PDF.
-[questions thème 1](activité_thème1/question_triviale_pursuite_thème1_) sous forme modifiable. 
+ 
+[questions thème 1](activité_thème1/question_triviale_pursuite_thème1_) sous forme modifiable, à télécharger.  
+
 [correctif de question thèmes 1](activité_thème1/question_triviale_pursuite_thème1(correctif).drawio.pdf)
 
 ### Thème 2 
